@@ -1,17 +1,13 @@
 ![PluralSight Role IQs](pluralsight-roles-tiny.png "Pluralsight")
 
-### Languages and Tools
-- HTML, CSS & JavaScript
-- Python 
-- React & Angular
-- Node & Express
+### Languages
+- HTML, CSS, JavaScript, TypeScript, C#, Python, Ruby, R 
 
-### Explored
-- Ruby
-- C++ / C#
-- R
-- Ramda & Lodash
-- Django
-- RxJS
-- D3
-- Bootstrap, SASS, Tailwind CSS, GSAP
+### Frameworks
+- React, Angular, Bootstrap, .NET Core, Express
+
+### Libraries / APIs
+- Node, jQuery, Pandas, Lodash, Ramda, D3, Redux, Mongoose
+
+### Storage
+- T-SQL, SQLite, MongoDB
