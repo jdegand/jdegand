@@ -1,7 +1,7 @@
 ![PluralSight Role IQs](pluralsight-roles-tiny.png "Pluralsight")
 
 ### Languages
-- HTML, CSS, JavaScript, TypeScript, C#, Python, Ruby, R 
+- HTML, CSS, JavaScript, TypeScript, C#, Python, Ruby, R, T-SQL, SQL, GraphQL 
 
 ### Frameworks
 - React, Angular, Bootstrap, .NET Core, Express
@@ -10,4 +10,4 @@
 - Node, jQuery, Pandas, Lodash, Ramda, D3, Redux, Mongoose
 
 ### Storage
-- T-SQL, SQLite, MongoDB
+- SQLite, MongoDB
