@@ -1,4 +1,4 @@
-![PluralSight Role IQs](pluralsight-roles-tiny.png "Pluralsight")
+![PluralSight Role IQs](pluralsight-5-roles.png "Pluralsight")
 
 ### Languages
 - HTML, CSS, JavaScript, TypeScript, C#, Python, Ruby, R, T-SQL, SQL, GraphQL 
