@@ -13,4 +13,4 @@
 - MongoDB, SQL
 
 ### Testing
-- Cypress, Jest, J-Unit, Mocha, Mockito, Jasmine, React Testing Library, Supertest, Vitest 
+- Cypress, Jest, J-Unit, Mocha, Mockito, Jasmine, Testing Library, Supertest, Vitest 
