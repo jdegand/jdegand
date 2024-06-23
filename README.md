@@ -1,24 +1,27 @@
-![PluralSight Role IQs](pluralsight-5-roles.png "Pluralsight")
+## My Skills
 
-Check My PluralSight [Stats](https://app.pluralsight.com/profile/jdegand#0)
+### Languages
+
+- CSS, HTML, Java, JavaScript, SQL, TypeScript
+
+### Frameworks
+
+- Angular, Bootstrap, Express, Next, Spring Boot
+
+### Libraries / APIs
+
+- Angular Material, Mongoose, NgRx, Node, PrimeNG, React
+
+### Storage
+
+- Firebase, MongoDB, SQL (MySQL, Postgresql, SQLite)
+
+### Testing
+
+- Cypress, Jasmine, Jest, JUnit, Mockito, Testing Library
 
 ***
 
-**Languages**
-- C#, CSS, HTML, Java, JavaScript, SQL, TypeScript
+## Contact
 
-**Frameworks**
-- Angular, Bootstrap, Express, .NET Core, Next, Spring Boot
-
-**Libraries / APIs**
--  Angular Material, jQuery, Mongoose, NgRx, Node, React, Redux
-
-**Storage**
-- MongoDB, SQL
-
-**Testing**
-- Cypress, Jest, J-Unit, Mocha, Mockito, Jasmine, Testing Library, Supertest, Vitest
-
-***
-
-Contact Me at jdegandgithub@outlook.com
+- Email Me at <jdegandgithub@outlook.com>
