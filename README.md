@@ -1,5 +1,7 @@
 ## My Skills
 
+According to [Gitroll](https://gitroll.io/profile/sPCMPeLaugIS0U257bF40), I am an Exemplary Full-Stack Developer.  
+
 ### Languages
 
 - CSS, HTML, Java, JavaScript, SQL, TypeScript
