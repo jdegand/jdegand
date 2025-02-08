@@ -2,7 +2,7 @@
 
 ## My Skills
 
-According to [Gitroll](https://gitroll.io/profile/sPCMPeLaugIS0U257bF40), I am an Exemplary Full-Stack Developer.  
+Check out my [Gitroll](https://gitroll.io/profile/sPCMPeLaugIS0U257bF40) stats.  
 
 ### Languages
 
