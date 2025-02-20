@@ -2,7 +2,7 @@
 
 ## My Skills
 
-Check out my [Gitroll](https://gitroll.io/profile/sPCMPeLaugIS0U257bF40) stats.  
+Search jdegand on [GitRoll](https://gitroll.io/) to see a detailed analysis of my last fifty recently updated repos.
 
 ### Languages
 
