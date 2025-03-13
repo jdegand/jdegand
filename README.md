@@ -2,7 +2,7 @@
 
 ## My Skills
 
-Search jdegand on [GitRoll](https://gitroll.io/) to see a detailed analysis of my last fifty recently updated repos.
+Search `jdegand` on [GitRoll](https://gitroll.io/scan) to see a detailed analysis of my recently updated repos.
 
 ### Languages
 
