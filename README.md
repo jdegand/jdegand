@@ -1,6 +1,6 @@
 ## My Skills
 
-Search `jdegand` on [GitRoll](https://gitroll.io/scan) to see a detailed analysis of my recently updated repos.
+Go to [GitRoll](https://gitroll.io/scan) and search `jdegand` to see a detailed analysis of my most recent repos. Check out my [OSS Insight Data](https://ossinsight.io/analyze/jdegand).
 
 ### Languages
 
